@@ -49,6 +49,8 @@ I love designing and implementing responsive websites with beautiful UI that pro
 ## ⚡ I am currently looking for:
 - Opportunities
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafmkd&show_icons=true&locale=en&layout=compact" alt="nafmkd" /></p>
+
 <!-- ## 📈 GitHub Stats 
 [![Fkrnew's github stats](https://github-readme-stats.vercel.app/api?username=ffekirnew)](https://github.com/ffekirnew) -->
 <!--
