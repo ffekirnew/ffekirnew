@@ -48,8 +48,7 @@ I love designing and implementing responsive websites with beautiful UI that pro
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ffekirnew&show_icons=true&locale=en&layout=compact" alt="ffekirnew" /></p>
 
-## ⚡ I I’m looking to collaborate on:
-- anything interesting
+## ⚡ I’m looking to collaborate on: <em>anything interesting</em>
 
 
 <!-- ## 📈 GitHub Stats 
