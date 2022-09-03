@@ -5,7 +5,7 @@ I love designing and implementing responsive websites with beautiful UI that pro
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=red)](mailto:phikernew0808@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=pink)](https://www.instagram.com/fkrnew.brhanu/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
 
@@ -26,10 +26,10 @@ I love designing and implementing responsive websites with beautiful UI that pro
 ## 💼 Skills
 <!-- Programming Language Shields -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=003B57)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=003A57)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
 </br>
