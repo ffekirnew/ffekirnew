@@ -1,11 +1,11 @@
-<h3 align="center"> Hi there, I'm Fikernew 👋 </h3>
+<h3 align="center"> Hi there, I'm Fkrnew 👋 </h3>
 <h2 align="center">I'm a Freelance Web Developer 🎨, Student Software Engineer 💻, and Raconteur 📸.</h2>
 
-I love designing and implementing responsive websites with beautiful UI that provide smooth UX while alson having efficient functionalities. I also enjoy creating tools and programs that perform specific and powerful tasks. I aspire to become a Machine Learning Engineer.
+I love designing and implementing responsive websites with beautiful UI that provide smooth UX while alson having efficient functionalities. I also enjoy creating desktop programs and tools that perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)](mailto:phikernew0808@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=pink)](https://www.instagram.com/fkrnew.brhanu/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
 
