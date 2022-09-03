@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, I'm Fikernew 👋 </h3>
-<h2 align="center">I'm a Student Software Developer 💻, Web Designer 🎨 and Raconteur 📸.</h2>
+<h2 align="center">I'm a Freelance Web Developer 🎨, Student Software Engineer 💻, and Raconteur 📸.</h2>
 
-I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I am specially interested in becoming a ML Engineer.
+I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I to become a Machine Learning Engineer.
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)](mailto:phikernew0808@gmail.com)
@@ -49,6 +49,9 @@ I love designing and implementing responsive websites with beautiful user interf
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## ⚡ I am currently looking for:
+- Opportunities
 
 <!-- ## 📈 GitHub Stats 
 [![Fkrnew's github stats](https://github-readme-stats.vercel.app/api?username=ffekirnew)](https://github.com/ffekirnew) -->
