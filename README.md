@@ -21,7 +21,10 @@ I love designing and implementing responsive websites with beautiful user interf
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=003B57)
+![](https://img.shields.io/badge/Code-BeautifulSoup-informational?style=flat&logo=BeautifulSoup&color=003B57)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
 
 </br>
 
