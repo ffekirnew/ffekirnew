@@ -1,7 +1,12 @@
 <h3 align="center"> Hi there, I'm Fikernew 👋 </h3>
-<h2 align="center">I'm a Student Software Developer 💻, Designer 🎨 and Raconteur 📸.</h2>
+<h2 align="center">I'm a Student Software Developer 💻, Web Designer 🎨 and Raconteur 📸.</h2>
 
-I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I am specially interested in becoming ML Engineer.
+I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I am specially interested in becoming a ML Engineer.
+
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/inkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fkrnew.brhanu/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
 
 ## 🔭 I’m currently working on
 - School Projects
@@ -44,9 +49,13 @@ I love designing and implementing responsive websites with beautiful user interf
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📈 GitHub Stats 
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/inkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fkrnew.brhanu/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
 
-[![Fkrnew's github stats](https://github-readme-stats.vercel.app/api?username=ffekirnew)](https://github.com/ffekirnew)
+<!-- ## 📈 GitHub Stats 
+[![Fkrnew's github stats](https://github-readme-stats.vercel.app/api?username=ffekirnew)](https://github.com/ffekirnew) -->
 <!--
 Here are some ideas to get you started:
 
@@ -55,7 +64,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- : ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
