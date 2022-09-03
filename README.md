@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, I'm Fikernew 👋 </h3>
 <h2 align="center">I'm a Freelance Web Developer 🎨, Student Software Engineer 💻, and Raconteur 📸.</h2>
 
-I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I to become a Machine Learning Engineer.
+I love designing and implementing responsive websites with beautiful UI that provide smooth UX while alson having efficient functionalities. I also enjoy creating tools and programs that perform specific and powerful tasks. I aspire to become a Machine Learning Engineer.
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)](mailto:phikernew0808@gmail.com)
