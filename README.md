@@ -1,16 +1,17 @@
 <h3 align="center"> Hi there, I'm Fikernew 👋 </h3>
 <h2 align="center">I'm a Student Software Developer 💻, Designer 🎨 and Raconteur 📸.</h2>
 
-I love designing and implementing responsive websites with beautiful user interfaces that provide amazing and smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities for desktops.
+I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I am specially interested in becoming ML Engineer.
 
 ## 🔭 I’m currently working on
 - School Projects
 - A blog
 - My old projects (refactoring and all)
 - Telegram Bots
-- My CSS and Bootstrap skill
+- My CSS and Bootstrap skills
 
-🌱 I’m currently learning
+## 🌱 I’m currently learning
+- Data Structures and Algorithms
 - React Native
 - Bootstrap 5
 - Django
@@ -22,20 +23,20 @@ I love designing and implementing responsive websites with beautiful user interf
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=003B57)
-![](https://img.shields.io/badge/Code-BeautifulSoup-informational?style=flat&logo=BeautifulSoup&color=003B57)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
+
+
+</br>
+
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 </br>
 
 ![](https://img.shields.io/badge/Database-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Database-postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Database-sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 </br>
 
