@@ -4,9 +4,9 @@
 I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I am specially interested in becoming a ML Engineer.
 
 ## 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](mailto:phikernew0808@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=white)](https://www.instagram.com/fkrnew.brhanu/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)](mailto:phikernew0808@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=pink)](https://www.instagram.com/fkrnew.brhanu/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
 
 ## 🔭 I’m currently working on
