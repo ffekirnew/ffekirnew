@@ -27,9 +27,10 @@ I love designing and implementing responsive websites with beautiful user interf
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
 
 </br>
-![](https://img.shields.io/badge/Database-MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Database-Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Database-SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![](https://img.shields.io/badge/Database-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Database-postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Database-sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 </br>
 
