@@ -4,9 +4,10 @@
 I love designing and implementing responsive websites with beautiful user interfaces that provide smooth user experience while having robust and efficient functionalities. I also enjoy creating tools and programs that provide specific and powerful functionalities. I am specially interested in becoming a ML Engineer.
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/inkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fkrnew.brhanu/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](mailto:phikernew0808@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=white)](https://www.instagram.com/fkrnew.brhanu/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
 
 ## 🔭 I’m currently working on
 - School Projects
@@ -49,11 +50,6 @@ I love designing and implementing responsive websites with beautiful user interf
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/inkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkrnew-brhanu-83ba3a240/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fkrnew.brhanu/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
-
 <!-- ## 📈 GitHub Stats 
 [![Fkrnew's github stats](https://github-readme-stats.vercel.app/api?username=ffekirnew)](https://github.com/ffekirnew) -->
 <!--
@@ -63,7 +59,7 @@ Here are some ideas to get you started:
 -  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  Ask me about ...
 - : ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
