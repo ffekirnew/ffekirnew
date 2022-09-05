@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, I'm Fkrnew 👋 </h3>
-<h2 align="center">I'm a Freelance Web Developer 🎨, Student Software Engineer 💻, and Raconteur 📚.</h2>
+<h2 align="center">I'm a Web Developer 🎨, Student Software Engineer 💻, and Raconteur 📚.</h2>
 
-I love designing and implementing. I also enjoy creating desktop programs and tools that perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.
+I love designing and implementing websites. I also enjoy creating desktop programs and tools that perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=red)](mailto:phikernew0808@gmail.com)
