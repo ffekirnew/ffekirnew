@@ -19,9 +19,7 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 ## 🌱 I’m currently learning
 - Data Structures and Algorithms
 - React Native
-- Bootstrap 5
-- Django
-- Beautiful Soup
+- The Shell
 
 ## 💼 Skills
 <!-- Programming Language Shields -->
