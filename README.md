@@ -17,8 +17,8 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 - My CSS and Bootstrap skills
 
 ## 🌱 I’m currently learning
-- Data Structures and Algorithms
-- React Native
+- Advanced Data Structures and Algorithms
+- React
 - The Shell
 
 ## 💼 Skills
