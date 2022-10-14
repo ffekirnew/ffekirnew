@@ -1,5 +1,5 @@
 #### Hi there, I'm Fkrnew 👋
-### I'm a Web Developer 🎨, Student Software Engineer 💻, and Raconteur 📚.
+### I'm a Web Developer 🎨, Student Software Engineer 💻, and Raconteur 📚
 
 I love designing and implementing websites. I also enjoy creating desktop programs and tools that perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.
 
