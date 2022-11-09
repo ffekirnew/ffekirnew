@@ -46,7 +46,9 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ffekirnew&show_icons=true&locale=en&layout=compact" alt="ffekirnew"></p>
-
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffekirnew&show_icons=true&theme=tokyonight" />
+</a>
 #### ⚡ I’m looking to collaborate on: <em>anything interesting</em>
 
 <!-- ## 📈 GitHub Stats 
