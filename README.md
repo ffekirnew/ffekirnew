@@ -45,7 +45,7 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=firaol_ca&show_icons=true&locale=en&layout=compact" alt="ffekirnew"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ffekirnew&show_icons=true&locale=en&layout=compact" alt="ffekirnew"></p>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffekirnew&show_icons=true&theme=tokyonight" />
 </a>
