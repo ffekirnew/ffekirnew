@@ -29,12 +29,13 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=003A57)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=003B57)
 ![](https://img.shields.io/badge/Code-Nestjs-informational?style=flat&logo=Nestjs&color=E34F26)
 </br>
 <!-- Styling Tools -->
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-Tailwindcss-informational?style=flat&logo=Tailwindcss&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 </br>
 <!-- Database Query Languages -->
