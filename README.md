@@ -23,7 +23,7 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 
 #### 💼 Skills
 <!-- Programming Language Shields -->
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=003A57)
