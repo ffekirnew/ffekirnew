@@ -32,7 +32,7 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=003B57)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=E34F26)
 ![](https://img.shields.io/badge/Code-Nestjs-informational?style=flat&logo=Nestjs&color=E34F26)
 </br>
 <!-- Styling Tools -->
