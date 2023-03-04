@@ -38,6 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffekirnew&show_icons=true&locale=en" alt="ffekirnew" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ffekirnew&" alt="ffekirnew" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ffekirnew&" alt="ffekirnew" /></p>
 
 #### ⚡ I’m looking to collaborate on: <em>anything interesting</em>
