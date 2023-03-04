@@ -1,7 +1,9 @@
-#### Hi there, I'm Fkrnew 👋
-### I'm a Student Software Engineer 💻
+<h1 align="center">Hi there, I'm Fkrnew 👋</h1>
+<h3 align="center">I'm a Student Software Engineer 💻</h3>
+<p align="center"> I love designing and implementing websites. I also enjoy creating desktop programs and tools that perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.</p>
 
-I love designing and implementing websites. I also enjoy creating desktop programs and tools that perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ffekirnew&label=Profile%20views&color=0e75b6&style=flat" alt="ffekirnew" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ffekirnew" alt="ffekirnew" /></a> </p>
 
 #### 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=red)](mailto:ffekirnew0808@gmail.com)
@@ -56,7 +58,7 @@ I love designing and implementing websites. I also enjoy creating desktop progra
 </a>
 <br></br>
 
-### ⚡ I’m looking to collaborate on: <em>anything interesting</em>
+#### ⚡ I’m looking to collaborate on: <em>anything interesting</em>
 
 <!-- ## 📈 GitHub Stats 
 [![Fkrnew's github stats](https://github-readme-stats.vercel.app/api?username=ffekirnew)](https://github.com/ffekirnew) -->
