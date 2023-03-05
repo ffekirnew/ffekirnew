@@ -1,11 +1,8 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ffekirnew&label=Profile%20views&color=0e75b6&style=flat" alt="ffekirnew" /> </p>
 <h1 align="center">Hi there, I'm Fkrnew 👋</h1>
 <h3 align="center">I'm a Student Software Engineer 💻</h3>
 <p align="center"> I love designing and implementing websites. I also enjoy creating desktop programs and tools that
     perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.</p>
-
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=ffekirnew&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ffekirnew" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=ffekirnew" alt="ffekirnew" /></a> </p>
 
