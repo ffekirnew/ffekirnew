@@ -15,17 +15,13 @@
 
 #### 🔭 I’m currently working on
 
+- Work-place Projects
 - School Projects
-- A blog
-- My old projects (refactoring and all)
-- Telegram Bots
-- My CSS and Bootstrap skills
 
 #### 🌱 I’m currently learning
 
-- Angular
-- Nest.js
-- Assembly
+- Flutter
+- AI Algorithms
 - Data Structure and Algorithms ⭐
 
 #### 💼 Skills
