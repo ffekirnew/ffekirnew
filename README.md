@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=red)](mailto:ffekirnew0808@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fkrnew-brhanu/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=pink)](https://www.instagram.com/fkrnew.brhanu/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/ze_gabriel)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/ffekirnew)
 
 #### 🔭 I’m currently working on
 
