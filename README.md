@@ -22,6 +22,7 @@
 
 - Flutter
 - AI Algorithms
+- OpenGL
 - Data Structure and Algorithms ⭐
 
 #### 💼 Skills
