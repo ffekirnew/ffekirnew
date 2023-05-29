@@ -40,4 +40,5 @@
 
 <h3 align="left">⚡ I’m looking to collaborate on:</h3>
 
-- Anything interesting
+- Django
+- Angular
