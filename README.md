@@ -38,8 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffekirnew&show_icons=true&locale=en" alt="ffekirnew" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ffekirnew&" alt="ffekirnew" /></p>
-
 <h3 align="left">⚡ I’m looking to collaborate on:</h3>
 
 - Django
