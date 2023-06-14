@@ -27,7 +27,7 @@
 - Flutter
 - AI Algorithms ⭐
 - OpenGL
-- Advanced Data Structure and Algorithms ⭐
+- Advanced Data Structures and Algorithms ⭐
 - ML Algorithms ⭐
 
 <h3 align="left">💼 Skills:</h3>
