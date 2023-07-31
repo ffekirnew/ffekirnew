@@ -73,4 +73,4 @@
 - Angular
 
 <h3 align="left">😆 Leaving Note:</h3>
-Always remember and defeate the only three problems in Computer Science: cache invalidation, naming things, and off-by-one errors.
+Beware of the only three problems in Computer Science: cache invalidation, naming things, and off-by-one errors, at least they are my arch-nemesises (if this is even a word).
