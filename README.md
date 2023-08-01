@@ -24,11 +24,11 @@
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 
-- Flutter
+- C# and .Net
 - AI Algorithms ⭐
-- OpenGL
 - Advanced Data Structures and Algorithms ⭐
-- ML Algorithms ⭐
+- ML Algorithms
+- Design Patterns
 
 <h3 align="left">💼 Technologies I work with on the daily:</h3>
 <!--Python--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
