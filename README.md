@@ -76,4 +76,4 @@
 - Angular
 
 <h3 align="left">😆 Leaving Note:</h3>
-Beware, my padawan, of the Darth Vader, Darth Sidious and Kylo Ren in Computer Science: cache invalidation, naming things, and off-by-one errors. May the 4th be with you.
+For the love of God, always beware of the Darth Vader, Darth Sidious and Kylo Ren in Computer Science: cache invalidation, naming things, and off-by-one errors.
