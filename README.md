@@ -66,6 +66,7 @@
 <!--Flutter--> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
 <h3 align="left">✏️ Github Stats:</h3>
+[![committers.top badge](https://user-badge.committers.top/ethiopia/ffekirnew.svg)](https://user-badge.committers.top/ethiopia/ffekirnew)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffekirnew&show_icons=true&locale=en&layout=compact" alt="ffekirnew" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffekirnew&show_icons=true&locale=en" alt="ffekirnew" /></p>
