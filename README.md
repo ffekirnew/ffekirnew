@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fkrnew 👋</h1>
+<h1 align="center">Hi there, I'm Fikernew 👋</h1>
 <p align="left">I'm a Student Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs and tools that
     perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.</p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
