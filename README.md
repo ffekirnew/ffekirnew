@@ -24,11 +24,10 @@
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 
-- C# and .Net
-- React
 - Advanced Data Structures and Algorithms ⭐
-- ML Algorithms
+- Distributed Systems
 - Design Patterns
+- Golang
 
 <h3 align="left">💼 Technologies I work with on the daily:</h3>
 <!--Python--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -55,7 +54,7 @@
 <!--Dash--> <a href="https://dash.plotly.com/"> <img src="https://cryptologos.cc/logos/dash-dash-logo.svg?v=024" alt="dash" width="40" height="40"/> 
 <!--jupyter--> <a href="https://jupyter.org/"> <img src="https://www.nicepng.com/png/detail/70-701999_jupyter-logo.png" alt="jupyter" width="40" height="40"/> </a>
 <!--Nest.js--> <a href="https://nestjs.com"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
-<!--Tailwind--> <a href="https://tailwindcss.org"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwindcss" width="40" height="40"/> </a>
+<!--Tailwind--> <a href="https://tailwindcss.org"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwindcss" width="40" height="40"/> </a>
 <!--Bootstrap--> <a href="https://getbootstrap.com"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap-5" width="40" height="40"/> </a>
 <!--C--> <a href="https://cprogramming.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="c programming language" width="40" height="40"/> </a>
 <!--Java--> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
