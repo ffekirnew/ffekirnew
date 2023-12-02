@@ -77,4 +77,4 @@
 - Angular
 
 <h3 align="left">😆 Leaving Note:</h3>
-Please beware of the Darth Vader, Darth Sidious and Dath Maul in Computer Science: cache invalidation, naming things, and off-by-one errors.
+Please beware of the Darth Vader, Darth Sidious and Darth Maul in Computer Science: cache invalidation, naming things, and off-by-one errors.
