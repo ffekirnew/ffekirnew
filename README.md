@@ -16,14 +16,3 @@
 <a href="https://codeforces.com/profile/ffekirnew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ffekirnew" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ffekirnew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ffekirnew" height="30" width="40" /></a>
 </p>
-
-
-
-
-<h3 align="left">⚡ I’m looking to collaborate on:</h3>
-
-- Django
-- Angular
-
-<h3 align="left">😆 Leaving Note:</h3>
-Please beware of the Darth Vader, Darth Sidious and Darth Maul in Computer Science: cache invalidation, naming things, and off-by-one errors.
