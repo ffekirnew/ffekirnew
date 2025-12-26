@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Fikernew 👋</h1>
-<p align="left">I'm a Student Software Engineer 💻. I love creating things.</p>
+<p align="left">I love creating things.</p>
         
 
 
